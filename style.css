@@ -1,0 +1,41 @@
+body{
+ background-color:rgb(255,255,255);
+ color:#CDB4DB;
+ font-family:courier;
+} h1{
+ color:#BDE0FE;
+ font-family:courier;
+ font-size: 50px;
+
+}
+h2{
+ color:#FFAFCC;
+ font-family:courier;
+ font-size: 30px;
+ 
+}
+.container{
+  width: 700px;
+  margin: 40px auto;
+} 
+.card-white{
+ background-color: white;
+ padding:40px;
+ box-shadow:0px 10px 30px rgba(0,0,0,0.1);
+ border-radius: 4px;
+ margin:20px 0px;
+ text-align: center;	
+}
+.btn-pink{
+	background-color:pink ;
+	color: white;
+	padding: 25px 20 px;
+	border-radius: 4px;
+}
+.btn-pink:houver{
+	background-color:#BDE0FE;
+	color: white;
+}
+.img-circle{
+	border-radius:50%;
+}
